@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# itunes Assignment - www.sraghudatta.com/Eltropy for more details
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs all dependencies\
 
 ### `npm start`
 
